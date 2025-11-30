@@ -1,5 +1,5 @@
 # Selam 👋, Ben Yılmaz<h1>
----
+
 ## 💼 Yazılım Geliştirme Uzmanlığı
 
 Ben bir **Junior Developer** / **Yazılım Geliştiriciyim**. Genellikle **.NET / C#** tabanlı çözümler ve yüksek performanslı **RESTful API**'lar geliştirmeye odaklanıyorum. Sektördeki deneyimim, yazılım mimarisi tasarlama, veritabanı optimizasyonu ve temiz kod yazma pratiklerini kapsamaktadır.
@@ -10,8 +10,8 @@ Ben bir **Junior Developer** / **Yazılım Geliştiriciyim**. Genellikle **.NET 
 
 | Proje Adı | Açıklama | Ana Teknolojiler | Durum |
 | :--- | :--- | :--- | :--- |
-| **[ecommerce-backend](https://github.com/yilmaziyigun/ecommerce-backend)** | Microservice mimarisinde tasarlanmış e-ticaret altyapısı. | .NET Core, Microservices, RabbitMQ | **Aktif Geliştirme** |
-| **[yilmaziyigun/passaparola-oyunu](https://github.com/yilmaziyigun/passaparola-oyunu)** | C# WinForms projesi. Oyun döngüsü ve UI/UX üzerine yoğunlaşıldı. | C#, WinForms | Bakım |
+| **[İlçede Seçim App]((https://github.com/yilmaziyigun/ElectionVoteChart))** | C# WinForms projesi.  | C#,WinForm,Charts | **Aktif Geliştirme** |
+| **[PassaParola Oyunu](https://github.com/yilmaziyigun/passaparola-oyunu)** | C# WinForms projesi. Oyun döngüsü ve UI/UX üzerine yoğunlaşıldı. | C#, WinForms | Bakım |
 
 #### 📂 Arşiv Projeler (Arşiv/Öğrenme Amaçlı)
 
@@ -42,5 +42,5 @@ Yeteneklerinizi ana kategorilere ayırın ve rozetleri buraya yapıştırın.
 | Platform | Bağlantı |
 | :--- | :--- |
 | **LinkedIn** | [https://www.linkedin.com/in/yilmaziyigun](https://www.linkedin.com/in/yilmaziyigun) |
-| **Kişisel Blog** | [https://www.ornekblogadresiniz.com](https://www.ornekblogadresiniz.com)](https://yilmaziyigun.github.io/resume/) |
+| **Kişisel Blog** | (https://www.ornekblogadresiniz.com)](https://yilmaziyigun.github.io/resume/) |
 | **E-posta** | yilmaziyigun06@gmail.com |
