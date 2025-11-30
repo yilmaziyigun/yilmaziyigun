@@ -1,7 +1,5 @@
 # Selam 👋, Ben Yılmaz<h1>
 
-
-
 ---
 
 
@@ -41,19 +39,6 @@ Yeteneklerinizi ana kategorilere ayırın ve rozetleri buraya yapıştırın.
 [![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 ---
-# 📌 Başlıca Projelerim ve Repolarım 🚀
-
--- ### 1. [yilmaziyigun/passaparola-oyunu](https://github.com/yilmaziyigun/passaparola-oyunu)
-> **Kısa Bilgi:** C# WinForms ile geliştirilmiş, popüler Passaparola formatındaki bilgi yarışması uygulaması. Proje, Timer kullanımı, dinamik arayüz yönetimi ve dizi tabanlı soru-cevap mantığını içerir.
-
-### 2. [yilmaziyigun/resume](https://github.com/yilmaziyigun/resume)
-> **Kısa Bilgi:** LaTeX şablonları kullanılarak hazırlanan güncel özgeçmişim (CV). İndirilebilir PDF formatı, projelerimi ve yeteneklerimi detaylıca listeler.
-
-/*### 3. [yilmaziyigun/api-geliştirme](https://github.com/yilmaziyigun/api-geliştirme)
-> **Kısa Bilgi:** RESTful API geliştirme pratiklerimi sergilediğim, .NET Core tabanlı örnek bir backend projesidir. Veri tabanı entegrasyonu ve temel yetkilendirme (authentication) konularını kapsar.
-
-*/
-
 
 ### 📫 İletişim
 
