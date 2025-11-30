@@ -1,8 +1,5 @@
 # Selam 👋, Ben Yılmaz<h1>
-
 ---
-
-
 ## 💼 Yazılım Geliştirme Uzmanlığı
 
 Ben bir **Junior Developer** / **Yazılım Geliştiriciyim**. Genellikle **.NET / C#** tabanlı çözümler ve yüksek performanslı **RESTful API**'lar geliştirmeye odaklanıyorum. Sektördeki deneyimim, yazılım mimarisi tasarlama, veritabanı optimizasyonu ve temiz kod yazma pratiklerini kapsamaktadır.
