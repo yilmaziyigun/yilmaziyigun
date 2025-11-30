@@ -42,5 +42,5 @@ Yeteneklerinizi ana kategorilere ayırın ve rozetleri buraya yapıştırın.
 | Platform | Bağlantı |
 | :--- | :--- |
 | **LinkedIn** | [https://www.linkedin.com/in/yilmaziyigun](https://www.linkedin.com/in/yilmaziyigun) |
-| **Kişisel Blog** | (https://yilmaziyigun.github.io/resume) |
+| **Kişisel Blog** | https://yilmaziyigun.github.io/resume |
 | **E-posta** | yilmaziyigun06@gmail.com |
