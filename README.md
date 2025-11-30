@@ -11,13 +11,7 @@
 ### 3. [yilmaziyigun/api-geliştirme](https://github.com/yilmaziyigun/api-geliştirme)
 > **Kısa Bilgi:** RESTful API geliştirme pratiklerimi sergilediğim, .NET Core tabanlı örnek bir backend projesidir. Veri tabanı entegrasyonu ve temel yetkilendirme (authentication) konularını kapsar.
 
-### 📈 GitHub İstatistikleri
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yilmaziyigun&show_icons=true&theme=buefy&hide_rank=false" alt="Yılmaz'ın GitHub İstatistikleri" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yilmaziyigun&layout=compact&theme=buefy" alt="Yılmaz'ın En Çok Kullandığı Diller" />
-</p>
 ---
 ### 💻 Teknolojik Yetkinliklerim
 
@@ -37,24 +31,12 @@
 
 ---
 
-## ✉️ Bana Ulaşın
-
-- **LinkedIn:** [linkedin.com/in/yilmaziyigun](https://linkedin.com/in/yilmaziyigun)
-- **E-posta:** yilmaz.iyigun [at] ornek.com
-
-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yilmaziyigun&color=blue" alt="Profil Ziyaret Sayısı">
-</p>
 
 ## 💼 Yazılım Geliştirme Uzmanlığı
 
-Ben bir **Senior Developer** / **Yazılım Mühendisiyim**. Genellikle **.NET / C#** tabanlı çözümler ve yüksek performanslı **RESTful API**'lar geliştirmeye odaklanıyorum. Sektördeki deneyimim, yazılım mimarisi tasarlama, veritabanı optimizasyonu ve temiz kod yazma pratiklerini kapsamaktadır.
+Ben bir **Junior Developer** / **Yazılım Geliştiriciyim**. Genellikle **.NET / C#** tabanlı çözümler ve yüksek performanslı **RESTful API**'lar geliştirmeye odaklanıyorum. Sektördeki deneyimim, yazılım mimarisi tasarlama, veritabanı optimizasyonu ve temiz kod yazma pratiklerini kapsamaktadır.
 
 ---
-
-### 🚀 Başlıca Projeler ve Repolar
-
-Projelerinizi **Geliştirme Durumlarına** göre ayırın.
 
 #### ✨ Öne Çıkan Aktif Projeler (Current Focus)
 
@@ -82,21 +64,16 @@ Yeteneklerinizi ana kategorilere ayırın ve rozetleri buraya yapıştırın.
 | **Ön Yüz (Temel)** | HTML5, CSS3, JavaScript |
 
 [![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 ---
 
-### 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yilmaziyigun&show_icons=true&theme=buefy&hide_rank=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yilmaziyigun&layout=compact&theme=buefy" />
-</p>
-
----
 
 ### 📫 İletişim
 
 | Platform | Bağlantı |
 | :--- | :--- |
 | **LinkedIn** | [https://www.linkedin.com/in/yilmaziyigun](https://www.linkedin.com/in/yilmaziyigun) |
-| **Kişisel Blog** | [https://www.ornekblogadresiniz.com](https://www.ornekblogadresiniz.com) |
-| **E-posta** | yilmaz.iyigun [at] ornek.com |
+| **Kişisel Blog** | [[https://www.ornekblogadresiniz.com](https://www.ornekblogadresiniz.com)](https://yilmaziyigun.github.io/resume/) |
+| **E-posta** | yilmaziyigun06@gmail.com |
