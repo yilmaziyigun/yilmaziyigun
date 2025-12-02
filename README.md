@@ -11,13 +11,11 @@ Ben bir **Junior Developer** / **Yazılım Geliştiriciyim**. Genellikle **.NET 
 | Proje Adı | Açıklama | Ana Teknolojiler | Durum |
 | :--- | :--- | :--- | :--- |
 | **[İlçede Seçim App](https://github.com/yilmaziyigun/ElectionVoteChart)** | C# WinForms projesi.  | C#,WinForm,Charts | **Aktif Geliştirme** |
-| **[PassaParola Oyunu](https://github.com/yilmaziyigun/passaparola-oyunu)** | C# WinForms projesi. Oyun döngüsü ve UI/UX üzerine yoğunlaşıldı. | C#, WinForms | Bakım |
+| **[PassaParola Oyunu](https://github.com/yilmaziyigun/passaparola)** | C# WinForms projesi. Oyun döngüsü ve UI/UX üzerine yoğunlaşıldı. | C#, WinForms | Bakım |
 
 #### 📂 Arşiv Projeler (Arşiv/Öğrenme Amaçlı)
 
 * **[yilmaziyigun/resume](https://github.com/yilmaziyigun/resume):** Güncel özgeçmişimin LaTeX kaynak kodları. (PDF indirme linki mevcuttur).
-* **[veri-analiz-python](https://github.com/yilmaziyigun/veri-analiz-python):** Pandas ve Matplotlib ile temel veri analizi çalışmaları.
-
 ---
 
 ### 💻 Kullandığım Teknolojiler ve Yetkinliklerim
