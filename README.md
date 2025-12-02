@@ -15,7 +15,7 @@ Ben bir **Junior Developer** / **Yazılım Geliştiriciyim**. Genellikle **.NET 
 
 #### 📂 Arşiv Projeler (Arşiv/Öğrenme Amaçlı)
 
-* **[yilmaziyigun/resume](https://github.com/yilmaziyigun/resume):** Güncel özgeçmişimin LaTeX kaynak kodları. (PDF indirme linki mevcuttur).
+* **[yilmaziyigun/resume](https://yilmaziyigun.github.io/resume):** Güncel özgeçmişimin LaTeX kaynak kodları. (PDF indirme linki mevcuttur).
 ---
 
 ### 💻 Kullandığım Teknolojiler ve Yetkinliklerim
