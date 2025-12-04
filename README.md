@@ -1,7 +1,7 @@
 # Selam 👋, Ben Yılmaz<h1>
 
 
-Ben bir **Yazılım Geliştiriciyim**. Genellikle **.NET * tabanlı çözümler ve yüksek performanslı uygulamalar geliştirmeye odaklanıyorum. Sektöre girme için aldığım eğitimler ve deneyimlediğim projeler yazılım mimarisi tasarlama, veritabanı optimizasyonu ve temiz kod yazma pratiklerini kapsamaktadır.
+Ben bir **Yazılım Geliştiriciyim**. Genellikle **.NET * tabanlı çözümler ve yüksek performanslı uygulamalar geliştirmeye odaklanıyorum. Sektöre girmek için aldığım eğitimler ve deneyimlediğim projeler yazılım mimarisi tasarlama, veritabanı optimizasyonu ve temiz kod yazma pratiklerini kapsamaktadır.
 
 ---
 
