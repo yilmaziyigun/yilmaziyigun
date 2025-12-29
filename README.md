@@ -1,43 +1,54 @@
-# Selam 👋, Ben Yılmaz<h1>
+# 👋 Merhaba! Ben Yılmaz İYİGÜN
 
-
-Ben bir **Yazılım Geliştiriciyim**. Genellikle **.NET * tabanlı çözümler ve yüksek performanslı uygulamalar geliştirmeye odaklanıyorum. Sektöre girmek için aldığım eğitimler ve deneyimlediğim projeler yazılım mimarisi tasarlama, veritabanı optimizasyonu ve temiz kod yazma pratiklerini kapsamaktadır.
+.NET Yazılım geliştiricisi | Backend Developer
+📍 Ankara, Türkiye • 📫 yilmaziyigun06@gmail.com  
+LinkedIn: https://linkedin.com/in/yilmaziyigun
 
 ---
 
-#### ✨ Öne Çıkan Aktif Projeler (Current Focus)
+## ⭐ Hakkımda
 
-| Proje Adı | Açıklama | Ana Teknolojiler | Durum |
-| :--- | :--- | :--- | :--- |
-| **[İlçede Seçim App](https://github.com/yilmaziyigun/ElectionVoteChart)** | C# WinForms projesi.  | C#,WinForm,Charts | **Aktif Geliştirme** |
-| **[PassaParola Oyunu](https://github.com/yilmaziyigun/passaparola)** | C# WinForms projesi. Oyun döngüsü ve UI/UX üzerine yoğunlaşıldı. | C#, WinForms | Bakım |
+Clean code, yüksek performans ve sürdürülebilir mimari benim çalışma felsefem.  
+Hem bireysel projelerde hem ekip çalışmalarında etkili çözümler üretirim.
 
-#### 📂 Arşiv Projeler (Arşiv/Öğrenme Amaçlı)
-
-* **[yilmaziyigun/resume](https://yilmaziyigun.github.io/resume):** Güncel özgeçmişimin LaTeX kaynak kodları. (PDF indirme linki mevcuttur).
 ---
 
-### 💻 Kullandığım Teknolojiler ve Yetkinliklerim
+## 🛠️ Uzmanlık Alanlarım
+| Alan | Teknolojiler |
+|------|---------------|
+| Backend & Core | C#, .NET, ASP.NET Core, SOLID, Design Patterns |
+| Veritabanı | SQL Server, PostgreSQL, EF Core, Dapper |
+| DevOps & Bulut | Docker, Azure (Temel), CI/CD |
+| Frontend | HTML5, CSS3, JavaScript (Temel) |
 
-Yeteneklerinizi ana kategorilere ayırın ve rozetleri buraya yapıştırın.
-
-| Alan | Ana Yetkinlikler (Rozetler) |
-| :--- | :--- |
-| **Backend & Core** | C#, .NET, ASP.NET Core, Design Patterns, SOLID |
-| **Veritabanı** | SQL Server, PostgreSQL, Entity Framework Core, Dapper |
-| **DevOps & Bulut** | Docker, Azure (Temel), CI/CD (Temel) |
-| **Ön Yüz (Temel)** | HTML5, CSS3, JavaScript |
-
+---
 [![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 ---
 
-### 📫 İletişim
+<!--## 🚀 Öne Çıkan Projeler
 
-| Platform | Bağlantı |
-| :--- | :--- |
-| **LinkedIn** | [https://www.linkedin.com/in/yilmaziyigun](https://www.linkedin.com/in/yilmaziyigun) |
-| **Kişisel Blog** | https://yilmaziyigun.github.io/resume |
-| **E-posta** | yilmaziyigun06@gmail.com |
+| Proje | Açıklama | Teknolojiler | Durum |
+|-------|-----------|--------------|-------|
+| **İlçede Seçim App** | WinForms proje | C#, WinForm, Charts | Aktif |
+| **PassaParola Oyunu** | UI/UX odaklı oyun | C#, WinForms | Bakım |-->
+
+---
+
+## 📦 🚀 Öne Çıkan Projeler
+
+<!--START_SECTION:latest_repos-->
+<!-- Bu alan otomatik olarak güncellenecek -->
+*Henüz içerik yok...*
+<!--END_SECTION:latest_repos-->
+
+---
+
+## 📫 İletişim
+
+📌 E-posta: yilmaziyigun06@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/yilmaziyigun
+
