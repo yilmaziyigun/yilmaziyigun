@@ -1,54 +1,19 @@
-# 👋 Merhaba! Ben Yılmaz İYİGÜN
+## Latest Repositories
 
-.NET Yazılım geliştiricisi | Backend Developer
-📍 Ankara, Türkiye • 📫 yilmaziyigun06@gmail.com  
-LinkedIn: https://linkedin.com/in/yilmaziyigun
+
 
 ---
 
-## ⭐ Hakkımda
+| [yilmaziyigun/yilmaziyigun](https://github.com/yilmaziyigun/yilmaziyigun) | [yilmaziyigun/TravelTripWebApp](https://github.com/yilmaziyigun/TravelTripWebApp) | [yilmaziyigun/BankaTest](https://github.com/yilmaziyigun/BankaTest) |
+| :-: | :-: | :-: |
+| <a href="https://github.com/yilmaziyigun/yilmaziyigun"><img src="https://github.com/yilmaziyigun/yilmaziyigun/raw/master/DISPLAY.jpg" alt="yilmaziyigun/yilmaziyigun" title="yilmaziyigun/yilmaziyigun" width="150" height="150"></a> | <a href="https://github.com/yilmaziyigun/TravelTripWebApp"><img src="https://github.com/yilmaziyigun/yilmaziyigun/raw/master/DISPLAY.jpg" alt="yilmaziyigun/TravelTripWebApp" title="yilmaziyigun/TravelTripWebApp" width="150" height="150"></a> | <a href="https://github.com/yilmaziyigun/BankaTest"><img src="https://github.com/yilmaziyigun/yilmaziyigun/raw/master/DISPLAY.jpg" alt="yilmaziyigun/BankaTest" title="yilmaziyigun/BankaTest" width="150" height="150"></a> |
 
-Clean code, yüksek performans ve sürdürülebilir mimari benim çalışma felsefem.  
-Hem bireysel projelerde hem ekip çalışmalarında etkili çözümler üretirim.
+| [yilmaziyigun/MVCV](https://github.com/yilmaziyigun/MVCV) | [nullablege/AspNetCore-MultiService-Dashboard](https://github.com/nullablege/AspNetCore-MultiService-Dashboard) | [yilmaziyigun/SifreliVeriler](https://github.com/yilmaziyigun/SifreliVeriler) |
+| :-: | :-: | :-: |
+| <a href="https://github.com/yilmaziyigun/MVCV"><img src="https://github.com/yilmaziyigun/yilmaziyigun/raw/master/DISPLAY.jpg" alt="yilmaziyigun/MVCV" title="yilmaziyigun/MVCV" width="150" height="150"></a> | <a href="https://github.com/nullablege/AspNetCore-MultiService-Dashboard"><img src="https://github.com/yilmaziyigun/yilmaziyigun/raw/master/DISPLAY.jpg" alt="nullablege/AspNetCore-MultiService-Dashboard" title="nullablege/AspNetCore-MultiService-Dashboard" width="150" height="150"></a> | <a href="https://github.com/yilmaziyigun/SifreliVeriler"><img src="https://github.com/yilmaziyigun/yilmaziyigun/raw/master/DISPLAY.jpg" alt="yilmaziyigun/SifreliVeriler" title="yilmaziyigun/SifreliVeriler" width="150" height="150"></a> |
 
----
 
-## 🛠️ Uzmanlık Alanlarım
-| Alan | Teknolojiler |
-|------|---------------|
-| Backend & Core | C#, .NET, ASP.NET Core, SOLID, Design Patterns |
-| Veritabanı | SQL Server, PostgreSQL, EF Core, Dapper |
-| DevOps & Bulut | Docker, Azure (Temel), CI/CD |
-| Frontend | HTML5, CSS3, JavaScript (Temel) |
-
----
-[![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ---
 
-<!--## 🚀 Öne Çıkan Projeler
-
-| Proje | Açıklama | Teknolojiler | Durum |
-|-------|-----------|--------------|-------|
-| **İlçede Seçim App** | WinForms proje | C#, WinForm, Charts | Aktif |
-| **PassaParola Oyunu** | UI/UX odaklı oyun | C#, WinForms | Bakım |-->
-
----
-
-## 📦 🚀 Öne Çıkan Projeler
-
-<!--START_SECTION:latest_repos-->
-<!-- Bu alan otomatik olarak güncellenecek -->
-*Henüz içerik yok...*
-<!--END_SECTION:latest_repos-->
-
----
-
-## 📫 İletişim
-
-📌 E-posta: yilmaziyigun06@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/yilmaziyigun
-
+Profilimdeki en yeni projeler
