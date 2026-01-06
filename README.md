@@ -9,7 +9,6 @@ Ben  **Yazılım Geliştiriciyim**. Genellikle **.NET * tabanlı çözümler ve 
 
 📫 yilmaziyigun06@gmail.com  
 
-LinkedIn: https://linkedin.com/in/yilmaziyigun
 ## 🚀 Son Projeler 
 
 <!--AUTO-PROJECTS:START-->
