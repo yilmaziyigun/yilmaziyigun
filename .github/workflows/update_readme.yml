@@ -1,24 +1,25 @@
-name: Update GitHub Profile README
+name: Update Featured Projects Safely
 
 on:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Update README with latest repos
-        uses: theboi/github-update-readme@v1.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-node@v4
         with:
-          header: "Latest Repositories"
-          repoCount: "6"
-          reposPerRow: "3"
-          footer: "Profilimdeki en yeni projeler"
+          node-version: 20
+
+      - run: node scripts/update-projects.js
+
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Auto update projects" || exit 0
+          git push
