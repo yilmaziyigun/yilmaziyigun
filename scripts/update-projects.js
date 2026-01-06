@@ -20,8 +20,8 @@ async function run() {
   const projects = repos
     .filter(r => !r.fork && r.name !== "yilmaziyigun")
     .map(r => {
-      const desc = r.description ?? "Açıklama eklenmemiş.";
-      return `- **${r.name}**  \n  ${desc}`;
+  const desc = r.description ?? "Açıklama eklenmemiş.";
+  return `- **${r.name}**  \n  ${desc}  \n  🔗 ${r.html_url}`;
     })
     .join("\n\n");
 
