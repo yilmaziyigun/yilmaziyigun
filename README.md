@@ -9,5 +9,20 @@ LinkedIn: https://linkedin.com/in/yilmaziyigun
 ## 🚀 Son Projeler (Otomatik Güncellenir)
 
 <!--AUTO-PROJECTS:START-->
-_Bu alan otomatik güncellenir_
+
+- **TravelTripWebApp**  
+  TravelTrip - Dinamik Seyahat Bloğu ve Yönetim Paneli
+
+- **BankaTest**  
+  Açıklama eklenmemiş.
+
+- **MVCV**  
+  Açıklama eklenmemiş.
+
+- **SifreliVeriler**  
+  Açıklama eklenmemiş.
+
+- **SqlRunApp**  
+  Açıklama eklenmemiş.
+
 <!--AUTO-PROJECTS:END-->
