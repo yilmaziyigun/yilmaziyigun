@@ -14,19 +14,28 @@ LinkedIn: https://linkedin.com/in/yilmaziyigun
 
 <!--AUTO-PROJECTS:START-->
 
-- **TravelTripWebApp**  
-  TravelTrip - Dinamik Seyahat Bloğu ve Yönetim Paneli
-
-- **BankaTest**  
-  Açıklama eklenmemiş.
-
-- **MVCV**  
-  Açıklama eklenmemiş.
+- **ResumeProject**  
+  .NET Core ile CV ve Portfolyo projesi  
+  🔗 https://github.com/yilmaziyigun/ResumeProject
 
 - **SifreliVeriler**  
-  Açıklama eklenmemiş.
+  WinForm'da database'e sifreli gönderme ve tekrar şifre çözülmüş şekilde gösterebilen proje  
+  🔗 https://github.com/yilmaziyigun/SifreliVeriler
 
 - **SqlRunApp**  
-  Açıklama eklenmemiş.
+  SQL komutlarını çalıştırmak ve görüntülemek için proje  
+  🔗 https://github.com/yilmaziyigun/SqlRunApp
+
+- **MessageApp**  
+  WinForm'da ID ile mesajlaşma get ve set kullanımı  
+  🔗 https://github.com/yilmaziyigun/MessageApp
+
+- **BankaTest**  
+  Banka ATM'si benzeri proje  
+  🔗 https://github.com/yilmaziyigun/BankaTest
+
+- **MVCV**  
+  MVC5 Dinamik  CV Web Projesi  
+  🔗 https://github.com/yilmaziyigun/MVCV
 
 <!--AUTO-PROJECTS:END-->
