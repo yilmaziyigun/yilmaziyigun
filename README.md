@@ -13,28 +13,24 @@ Ben  **Yazılım Geliştiriciyim**. Genellikle **.NET * tabanlı çözümler ve 
 
 <!--AUTO-PROJECTS:START-->
 
+- **MVCV**  
+  .Net Framework ile MVC5 Dinamik  CV Web Projesi  
+  🔗 https://github.com/yilmaziyigun/MVCV
+
+- **TravelTripWebApp**  
+  .NET Framework ile TravelTrip - Dinamik Seyahat Bloğu ve Yönetim Paneli  
+  🔗 https://github.com/yilmaziyigun/TravelTripWebApp
+
+- **BankaTest**  
+  WinForm'da Banka ATM'si benzeri proje  
+  🔗 https://github.com/yilmaziyigun/BankaTest
+
+- **SqlRunApp**  
+  WinForm'da SQL komutlarını çalıştırmak ve görüntülemek için proje  
+  🔗 https://github.com/yilmaziyigun/SqlRunApp
+
 - **ResumeProject**  
   .NET Core ile CV ve Portfolyo projesi  
   🔗 https://github.com/yilmaziyigun/ResumeProject
-
-- **SifreliVeriler**  
-  WinForm'da database'e sifreli gönderme ve tekrar şifre çözülmüş şekilde gösterebilen proje  
-  🔗 https://github.com/yilmaziyigun/SifreliVeriler
-
-- **SqlRunApp**  
-  SQL komutlarını çalıştırmak ve görüntülemek için proje  
-  🔗 https://github.com/yilmaziyigun/SqlRunApp
-
-- **MessageApp**  
-  WinForm'da ID ile mesajlaşma get ve set kullanımı  
-  🔗 https://github.com/yilmaziyigun/MessageApp
-
-- **BankaTest**  
-  Banka ATM'si benzeri proje  
-  🔗 https://github.com/yilmaziyigun/BankaTest
-
-- **MVCV**  
-  MVC5 Dinamik  CV Web Projesi  
-  🔗 https://github.com/yilmaziyigun/MVCV
 
 <!--AUTO-PROJECTS:END-->
