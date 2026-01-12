@@ -13,6 +13,10 @@ Ben  **Yazılım Geliştiriciyim**. Genellikle **.NET * tabanlı çözümler ve 
 
 <!--AUTO-PROJECTS:START-->
 
+- **ResumeProject**  
+  .NET Core ile CV ve Portfolyo projesi  
+  🔗 https://github.com/yilmaziyigun/ResumeProject
+
 - **MVCV**  
   .Net Framework ile MVC5 Dinamik  CV Web Projesi  
   🔗 https://github.com/yilmaziyigun/MVCV
@@ -28,9 +32,5 @@ Ben  **Yazılım Geliştiriciyim**. Genellikle **.NET * tabanlı çözümler ve 
 - **SqlRunApp**  
   WinForm'da SQL komutlarını çalıştırmak ve görüntülemek için proje  
   🔗 https://github.com/yilmaziyigun/SqlRunApp
-
-- **ResumeProject**  
-  .NET Core ile CV ve Portfolyo projesi  
-  🔗 https://github.com/yilmaziyigun/ResumeProject
 
 <!--AUTO-PROJECTS:END-->
