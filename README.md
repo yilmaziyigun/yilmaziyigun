@@ -14,7 +14,7 @@ Ben  **Yazılım Geliştiriciyim**. Genellikle **.NET * tabanlı çözümler ve 
 <!--AUTO-PROJECTS:START-->
 
 - **ResumeProject**  
-  .NET Core ile CV ve Portfolyo projesi  
+  .NET Core ile Kişisel CV & Portföy Yönetim Projesi  
   🔗 https://github.com/yilmaziyigun/ResumeProject
 
 - **MVCV**  
