@@ -13,6 +13,10 @@ Ben  **Yazılım Geliştiriciyim**. Genellikle **.NET * tabanlı çözümler ve 
 
 <!--AUTO-PROJECTS:START-->
 
+- **EmailProject**  
+  EmailProject, arka uçta yüksek performanslı .NET Core mimarisini, ön uçta ise hızlı ve modern arayüz geliştirmeye olanak tanıyan Tailwind CSS framework'ünü bir araya getirir. Projenin temel amacı, güvenli ve ölçeklenebilir bir e-posta yönetim sistemi sunmaktır.  
+  🔗 https://github.com/yilmaziyigun/EmailProject
+
 - **ResumeProject**  
   .NET Core ile Kişisel CV & Portföy Yönetim Projesi  
   🔗 https://github.com/yilmaziyigun/ResumeProject
@@ -28,9 +32,5 @@ Ben  **Yazılım Geliştiriciyim**. Genellikle **.NET * tabanlı çözümler ve 
 - **BankaTest**  
   WinForm'da Banka ATM'si benzeri proje  
   🔗 https://github.com/yilmaziyigun/BankaTest
-
-- **SqlRunApp**  
-  WinForm'da SQL komutlarını çalıştırmak ve görüntülemek için proje  
-  🔗 https://github.com/yilmaziyigun/SqlRunApp
 
 <!--AUTO-PROJECTS:END-->
