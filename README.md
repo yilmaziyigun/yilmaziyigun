@@ -1,36 +1,68 @@
+d"}
 # 👋 Merhaba! Ben Yılmaz İYİGÜN
 
+## 💻 Hakkımda
+.NET ekosisteminde uzmanlaşan bir Backend Developer olarak; ölçeklenebilir, sürdürülebilir ve yüksek performanslı uygulamalar geliştirmeye odaklanıyorum.
 
-Ben  **Yazılım Geliştiriciyim**. Genellikle **.NET * tabanlı çözümler ve yüksek performanslı uygulamalar geliştirmeye odaklanıyorum. Sektöre girmek için aldığım eğitimler ve deneyimlediğim projeler yazılım mimarisi tasarlama, veritabanı optimizasyonu ve temiz kod yazma pratiklerini kapsamaktadır.
+Şu anda modern yazılım geliştirme süreçlerini kapsayan kapsamlı bir eğitim programı ile kendimi ileri seviyeye taşıyorum.
 
-### .NET Yazılım geliştiricisi | Backend Developer
+---
 
-📍 Ankara, Türkiye 
+## 🚀 Üzerinde Çalıştığım Teknolojiler & Konular
 
-📫 yilmaziyigun06@gmail.com  
+### 🔹 Backend & Web Development
+- ASP.NET Core (Web API, MVC)
+- RESTful API Development
+- N-Tier Architecture
 
-## 🚀 Son Projeler 
+### 🔹 Yazılım Mimarisi
+- Clean Architecture (Onion Architecture)
+- Microservices Architecture
+- Distributed Systems
+- CQRS & Mediator Pattern
+- Design Patterns
 
-<!--AUTO-PROJECTS:START-->
+### 🔹 Authentication & Security
+- JWT Authentication
+- ASP.NET Core Identity
+- Secure API Development
 
-- **EmailProject**  
-  EmailProject, arka uçta yüksek performanslı .NET Core mimarisini, ön uçta ise hızlı ve modern arayüz geliştirmeye olanak tanıyan Tailwind CSS framework'ünü bir araya getirir. Projenin temel amacı, güvenli ve ölçeklenebilir bir e-posta yönetim sistemi sunmaktır.  
-  🔗 https://github.com/yilmaziyigun/EmailProject
+### 🔹 Veri Yönetimi
+- MongoDB
+- PostgreSQL
+- Dapper (Micro ORM)
+- Data Optimization & Performance
 
-- **ResumeProject**  
-  .NET Core ile Kişisel CV & Portföy Yönetim Projesi  
-  🔗 https://github.com/yilmaziyigun/ResumeProject
+### 🔹 Real-Time & Modern Uygulamalar
+- SignalR ile gerçek zamanlı uygulamalar
+- Big Data & Analytics Dashboard
 
-- **MVCV**  
-  .Net Framework ile MVC5 Dinamik  CV Web Projesi  
-  🔗 https://github.com/yilmaziyigun/MVCV
+### 🔹 Frontend & Full Stack
+- React ile Full Stack Development
 
-- **TravelTripWebApp**  
-  .NET Framework ile TravelTrip - Dinamik Seyahat Bloğu ve Yönetim Paneli  
-  🔗 https://github.com/yilmaziyigun/TravelTripWebApp
+### 🔹 Mobil & DevOps
+- .NET MAUI ile mobil uygulama geliştirme
+- Azure DevOps (CI/CD süreçleri)
 
-- **BankaTest**  
-  WinForm'da Banka ATM'si benzeri proje  
-  🔗 https://github.com/yilmaziyigun/BankaTest
+### 🔹 Yapay Zeka & Entegrasyonlar
+- AI Integration (.NET ile)
+- External API Integration (RapidAPI vb.)
 
+---
+
+## 📊 GitHub İstatistiklerim
+
+GitHub Stats
+
+Top Languages
+
+---
+
+## 🎯 Hedefim
+Gerçek dünya problemlerine çözüm üreten, modern mimarilere hakim ve uçtan uca sistem geliştirebilen bir yazılım geliştirici olmak.
+
+---
+
+## 📫 İletişim
+Yeni teknolojiler öğrenmeye, üretmeye ve kendimi sürekli geliştirmeye devam ediyoru
 <!--AUTO-PROJECTS:END-->
