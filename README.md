@@ -9,12 +9,6 @@
 
 ## 🚀 Üzerinde Çalıştığım Teknolojiler & Konular
 
-### 🧰 Teknolojiler & Araçlar
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,mongodb,mysql,sqlite,html,css,js,bootstrap,git,github,vscode,visualstudio" />
-</p>
-
 ### 🔹 Backend & Web Development
 - ASP.NET Core (Web API, MVC)
 - RESTful API Development
@@ -52,6 +46,12 @@
 ### 🔹 Yapay Zeka & Entegrasyonlar
 - AI Integration (.NET ile)
 - External API Integration (RapidAPI vb.)
+
+## 🧰 Teknolojiler & Araçlar
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,mongodb,mysql,sqlite,html,css,js,bootstrap,git,github,vscode,visualstudio" />
+</p>
 
 ---
 ## 👀 Profil Ziyaretçi Sayısı
