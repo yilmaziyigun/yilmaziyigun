@@ -66,18 +66,6 @@
 
 ---
 
-## 📊 GitHub İstatistiklerim
-
-![Stats](https://github-readme-stats.vercel.app/api?username=yilmaziyigun&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yilmaziyigun&layout=compact&theme=tokyonight)
-
----
-
-## 🐍 Contribution Snake Animasyonu
-
-![snake gif](https://github.com/yilmaziyigun/yilmaziyigun/blob/output/github-contribution-grid-snake.svg)
-
 ## 🎯 Hedefim
 Gerçek dünya problemlerine çözüm üreten, modern mimarilere hakim ve uçtan uca sistem geliştirebilen bir yazılım geliştirici olmak.
 Yeni teknolojiler öğrenmeye, üretmeye ve kendimi sürekli geliştirmeye devam ediyorum
