@@ -68,7 +68,7 @@
 
 ## 🎯 Hedefim
 Gerçek dünya problemlerine çözüm üreten, modern mimarilere hakim ve uçtan uca sistem geliştirebilen bir yazılım geliştirici olmak.
-Yeni teknolojiler öğrenmeye, üretmeye ve kendimi sürekli geliştirmeye devam ediyorum
+Yeni teknolojiler öğrenmeye, üretmeye ve kendimi sürekli geliştirmeye devam edeceğim
 
 ---
 
